@@ -1,0 +1,5 @@
+服务：services.msc
+本地安全策略：secpol.msc
+本地组策略：gpedit.msc
+远程桌面连接：mstsc
+控制面板：control
