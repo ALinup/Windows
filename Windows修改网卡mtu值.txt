@@ -1,0 +1,7 @@
+首先以管理员运行cmd
+查看mtu值
+netsh interface ipv4 show subinterfaces
+修改mtu值
+netsh interface ipv4 set subinterface "本地连接" mtu=1500 store=persistent
+再次查看mtu值
+netsh interface ipv4 show subinterfaces
