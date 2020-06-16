@@ -1,4 +1,5 @@
 服务：services.msc
+注册表编辑器：regedit或者打开文件C:\Windows\System32\regedt32
 本地安全策略：secpol.msc
 本地组策略：gpedit.msc
 远程桌面连接：mstsc
